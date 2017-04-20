@@ -3,5 +3,6 @@
 There is different challenge as follow.
 * initialize a project
 * working with a remote repo
-* sharing work
-* collaborator and merging
+* making branch and manage it  
+* work with collaborators and how to fix conflicts (merge fast-forward / recursive)
+
